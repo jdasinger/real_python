@@ -1,3 +1,3 @@
-user_input = raw_input("Tell me your password: " )
+user_input = input("Tell me your password: " )
 
-print user_input[0].upper()
+print(user_input[0].upper())

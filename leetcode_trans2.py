@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 input_text = raw_input("Enter some text: ")
 
 leetreplace = {
